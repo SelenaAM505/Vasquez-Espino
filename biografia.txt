@@ -1,4 +1,5 @@
 Me llamo Selena Vasquez.
 Soy estudiante de desarrollo de software.
 Me interesa el diseño web, la programación y ciberseguridad.
+Actualmente estoy aprendiendo Git y control de versiones.
 
